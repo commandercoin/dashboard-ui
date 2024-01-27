@@ -1,6 +1,6 @@
 {
-  "name": "A test token",
-  "symbol": "TEST",
-  "description": "Fully for testing purposes only",
-  "image": "https://token-creator-lac.vercel.app/token_image.png"
+  "name": "Commander",
+  "symbol": "Commander",
+  "description":"Commander Coin is the first US president Dog coin. The best dog on Solana is here. Web : https://commandercoin.org/",
+  "image": "https://raw.githubusercontent.com/commandercoin/dashboard-ui/main/LOGO.png"
 }
